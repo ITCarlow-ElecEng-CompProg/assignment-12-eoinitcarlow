@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512210402 source:f:\com prog 2\exercises\ex12 - complex numbers calculation\main.cpp
+	<iostream>
+	<cmath>
+
